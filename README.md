@@ -9,8 +9,7 @@
 - ⚡ Desejo me tornar um **desenvolvedor fullstack**
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Renato%20Dekeches-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renato-dekeches-272417151/)](https://www.linkedin.com/in/renato-dekeches-272417151/)
-[![Gmail Badge](https://img.shields.io/badge/-Renato%20Dekeches-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rntdek@gmail.com)](mailto:rntdek@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Renato%20-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rntdek@gmail.com)](mailto:rntdek@gmail.com)
 
 
 <h3 align="left">Tecnologias e Ferramentas:</h3>
