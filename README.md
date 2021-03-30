@@ -1,6 +1,6 @@
 ### Hey 👋
 
-<h3>Desenvolvedor frontend</h3>
+<h3>Desenvolvedor frontend - React</h3>
 
 - 🌱 I’m currently learning **english**
 
