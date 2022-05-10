@@ -6,8 +6,6 @@
 
 - 🎓 Técnico em Informática atualmente cursando **Análise e Desenvolvimento de Sistemas**
 
-- ⚡ Desejo me tornar um **desenvolvedor fullstack**
-
 
 [![Gmail Badge](https://img.shields.io/badge/-rntdek@gmail.com%20-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rntdek@gmail.com)](mailto:rntdek@gmail.com)
 
