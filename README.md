@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **english**
 
-- 🎓 Técnico em Informática atualmente cursando **Análise e Desenvolvimento de Sistemas**
+- 🎓 Técnico em Informática formado em **Análise e Desenvolvimento de Sistemas**
 
 
 [![Gmail Badge](https://img.shields.io/badge/-rntdek@gmail.com%20-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rntdek@gmail.com)](mailto:rntdek@gmail.com)
